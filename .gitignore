@@ -1,0 +1,10 @@
+.env.local
+.wechat_token_cache.json
+wechat_push_state.json
+.chrome-headless-profile/
+__pycache__/
+*.pyc
+*-邮件简报.md
+*-邮件简报-可视化版.md
+*-邮件简报-可视化版.html
+*-邮件简报-可视化版.png
