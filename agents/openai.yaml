@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webmail Daily Secretary"
+  short_description: "Read webmail and push daily briefs"
+  default_prompt: "Use $webmail-daily-secretary to read browser webmail, update the daily report, and push a WeCom brief."
